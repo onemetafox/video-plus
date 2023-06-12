@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <linearGradient id="slmrid0eqa" x1="-.035" y1="1.099" x2="1.038" y2="-.107" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#415fff"/>
+            <stop offset="1" stop-color="#08dcff"/>
+        </linearGradient>
+    </defs>
+    <path data-name="Rectangle 235" style="fill:none" d="M0 0h24v24H0z"/>
+    <path data-name="Path 403" d="M19 0H5a5.006 5.006 0 0 0-5 5v14a5.006 5.006 0 0 0 5 5h14a5.006 5.006 0 0 0 5-5V5a5.006 5.006 0 0 0-5-5zM5 2h14a3 3 0 0 1 3 3v14a2.951 2.951 0 0 1-.3 1.285l-9.163-9.163a5 5 0 0 0-7.072 0L2 14.586V5a3 3 0 0 1 3-3zm0 20a3 3 0 0 1-3-3v-1.586l4.878-4.878a3 3 0 0 1 4.244 0l9.163 9.164A2.951 2.951 0 0 1 19 22z" style="fill:url(#slmrid0eqa)"/>
+    <path data-name="Path 404" d="M23.292 12.542a3.5 3.5 0 1 0-3.5-3.5 3.5 3.5 0 0 0 3.5 3.5zm0-5a1.5 1.5 0 1 1-1.5 1.5 1.5 1.5 0 0 1 1.5-1.5z" transform="translate(-7.292 -2.042)" style="fill:url(#slmrid0eqa)"/>
+</svg>

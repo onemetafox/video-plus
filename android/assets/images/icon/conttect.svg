@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <linearGradient id="5qsmrlpr4a" x1="-.035" y1="1.099" x2="1.038" y2="-.107" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#415fff"/>
+            <stop offset="1" stop-color="#08dcff"/>
+        </linearGradient>
+    </defs>
+    <path data-name="Rectangle 98" style="fill:none" d="M0 0h24v24H0z"/>
+    <path d="M21.024 12.272v-1.426a9.011 9.011 0 0 0-18.024 0v1.426a5.006 5.006 0 0 0 2 9.588 2 2 0 0 0 2-2v-6.01a2 2 0 0 0-2-2v-1a7.008 7.008 0 0 1 14.017 0v1a2 2 0 0 0-2 2v6.007h-3a1 1 0 1 0 0 2h5.006a5.006 5.006 0 0 0 2-9.588zM5 19.857a3 3 0 1 1 0-6.007zm14.017 0V13.85a3 3 0 0 1 0 6.007z" transform="translate(-.013 .152)" style="fill:url(#5qsmrlpr4a)"/>
+</svg>

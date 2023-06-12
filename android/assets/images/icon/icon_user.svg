@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <rect data-name="Rectangle 223" width="24" height="24" rx="4" style="fill:none"/>
+    <path data-name="Path 282" d="M9 9a4.5 4.5 0 1 0-4.5-4.5A4.5 4.5 0 0 0 9 9zm0-7.5a3 3 0 1 1-3 3 3 3 0 0 1 3-3z" style="fill:rgba(33,33,33,.4)" transform="translate(3 3)"/>
+    <path data-name="Path 283" d="M9 10.5a6.757 6.757 0 0 0-6.75 6.75.75.75 0 1 0 1.5 0 5.25 5.25 0 0 1 10.5 0 .75.75 0 0 0 1.5 0A6.757 6.757 0 0 0 9 10.5z" style="fill:rgba(33,33,33,.4)" transform="translate(3 3)"/>
+</svg>

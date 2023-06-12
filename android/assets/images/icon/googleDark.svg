@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+    <g data-name="Sign in with Google">
+        <g data-name="Button Background">
+            <path data-name="Button Background background" style="fill:transparent" d="M0 0h45v45H0z"/>
+            <rect data-name="Button Shape" width="45" height="45" rx="6.136" style="fill:#fff"/>
+        </g>
+        <path data-name="Icon awesome-google" d="M18.111 9.994c0 5.252-3.6 8.989-8.907 8.989A9.2 9.2 0 0 1 9.2.574a8.852 8.852 0 0 1 6.172 2.409l-2.501 2.408C9.594 2.23 3.5 4.6 3.5 9.779a5.765 5.765 0 0 0 5.7 5.811 4.977 4.977 0 0 0 5.225-3.967H9.2V8.458h8.763a8.068 8.068 0 0 1 .144 1.534z" transform="translate(13.445 12.723)" style="fill:#212121"/>
+    </g>
+</svg>

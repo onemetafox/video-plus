@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <linearGradient id="wiml2a6b1a" x1="-.035" y1="1.099" x2="1.038" y2="-.107" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#415fff"/>
+            <stop offset="1" stop-color="#08dcff"/>
+        </linearGradient>
+    </defs>
+    <path data-name="Rectangle 98" style="fill:none" d="M0 0h24v24H0z"/>
+    <g>
+        <path data-name="Path 274" d="M12 0a12 12 0 1 0 12 12A12 12 0 0 0 12 0zm0 22a10 10 0 1 1 10-10 10 10 0 0 1-10 10z" style="fill:url(#wiml2a6b1a)"/>
+        <path data-name="Path 275" d="M12.05 4.646a4 4 0 0 0-4.717 3.937 1 1 0 1 0 2 0A2 2 0 0 1 11.7 6.616a2.024 2.024 0 0 1 1.6 1.6 2 2 0 0 1-1 2.125 3.954 3.954 0 0 0-1.971 3.5v.743a1 1 0 1 0 2 0v-.744a1.982 1.982 0 0 1 .93-1.752 4 4 0 0 0-1.209-7.442z" transform="translate(.667 .417)" style="fill:url(#wiml2a6b1a)"/>
+        <rect data-name="Rectangle 214" width="2" height="2" rx=".917" transform="translate(11 17)" style="fill:url(#wiml2a6b1a)"/>
+    </g>
+</svg>

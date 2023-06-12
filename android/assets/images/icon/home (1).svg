@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <path data-name="Rectangle 45" style="fill:none" d="M0 0h24v24H0z"/>
+    <g data-name="01 align center">
+        <path data-name="Path 20" d="M13.338.514a2 2 0 0 0-2.676 0L0 10.11v10.4a3.2 3.2 0 0 0 3.2 3.2h17.6a3.2 3.2 0 0 0 3.2-3.2v-10.4zM15 21.707H9v-5.026a3 3 0 0 1 6 0zm7-1.2a1.2 1.2 0 0 1-1.2 1.2H17v-5.026a5 5 0 0 0-10 0v5.026H3.2a1.2 1.2 0 0 1-1.2-1.2V11l10-9 10 9z"/>
+    </g>
+</svg>

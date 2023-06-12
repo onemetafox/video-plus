@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>234885058276-6m2kiru3o7rflqk1h5p086r1h9p02g65.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.234885058276-6m2kiru3o7rflqk1h5p086r1h9p02g65</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>234885058276-4ie4cpc30kod49a6p3716jssn0f0a9b8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCSzKOvuJVkAQ5hbxJxr0M2tmoHiAegVJE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>234885058276</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wrteam.videoPlus</string>
+	<key>PROJECT_ID</key>
+	<string>video-plus-256c2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>video-plus-256c2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:234885058276:ios:b24f6f7d570e49a64826f1</string>
+</dict>
+</plist>

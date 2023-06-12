@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <linearGradient id="dbkl02ioka" x1="-.035" y1="1.099" x2="1.038" y2="-.107" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#415fff"/>
+            <stop offset="1" stop-color="#08dcff"/>
+        </linearGradient>
+    </defs>
+    <path data-name="Rectangle 98" style="fill:none" d="M0 0h24v24H0z"/>
+    <path data-name="share" d="M19.313 14.65a4.655 4.655 0 0 0-3.835 2.022l-6.5-2.936a4.569 4.569 0 0 0 0-3.484L15.474 7.3a4.655 4.655 0 1 0-.826-2.64 4.628 4.628 0 0 0 .08.785l-6.9 3.136a4.663 4.663 0 1 0-.017 6.819l6.92 3.124a4.731 4.731 0 0 0-.079.784 4.662 4.662 0 1 0 4.661-4.661zm0-12.65a2.664 2.664 0 1 1-2.663 2.661A2.664 2.664 0 0 1 19.313 2zM4.664 14.65a2.664 2.664 0 1 1 2.663-2.664 2.664 2.664 0 0 1-2.663 2.664zm14.649 7.325a2.664 2.664 0 1 1 2.664-2.664 2.664 2.664 0 0 1-2.664 2.664z" transform="translate(.024 .014)" style="fill:url(#dbkl02ioka)"/>
+</svg>

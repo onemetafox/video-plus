@@ -1,0 +1,11 @@
+<svg data-name="p&amp;p" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <linearGradient id="xlldob8yta" x1="-.035" y1="1.099" x2="1.038" y2="-.107" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#415fff"/>
+            <stop offset="1" stop-color="#08dcff"/>
+        </linearGradient>
+    </defs>
+    <rect data-name="Rectangle 98" width="24" height="24" rx="6" style="fill:none"/>
+    <path data-name="Path 276" d="M18.414 2.14 12.149.051a1 1 0 0 0-.632 0L5.252 2.14a4.993 4.993 0 0 0-3.419 4.743V12c0 7.563 9.2 11.74 9.594 11.914a1 1 0 0 0 .812 0c.394-.174 9.594-4.351 9.594-11.914V6.883a4.993 4.993 0 0 0-3.419-4.743zM19.833 12c0 5.455-6.319 9.033-8 9.889-1.683-.853-8-4.42-8-9.889V6.883a3 3 0 0 1 2.052-2.846l5.948-1.983 5.948 1.983a3 3 0 0 1 2.052 2.846z" transform="translate(.167)" style="fill:url(#xlldob8yta)"/>
+    <path data-name="Path 277" d="m14.706 7.633-4.188 4.2-2.244-2.34a1 1 0 1 0-1.441 1.386l2.306 2.4a1.872 1.872 0 0 0 1.345.6h.033a1.873 1.873 0 0 0 1.335-.553l4.272-4.272a1 1 0 1 0-1.418-1.421z" transform="translate(.594 .667)" style="fill:url(#xlldob8yta)"/>
+</svg>

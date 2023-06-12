@@ -1,0 +1,7 @@
+<svg id="phone" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="boundry" width="24" height="24" fill="none"/>
+  <g id="base" transform="translate(4.333)">
+    <path id="Path_566" data-name="Path 566" d="M14.375,0H8.625A4.905,4.905,0,0,0,3.833,5V19a4.905,4.905,0,0,0,4.792,5h5.75a4.905,4.905,0,0,0,4.792-5V5A4.905,4.905,0,0,0,14.375,0ZM8.625,2h5.75A2.939,2.939,0,0,1,17.25,5V16H5.75V5A2.939,2.939,0,0,1,8.625,2Zm5.75,20H8.625A2.939,2.939,0,0,1,5.75,19V18h11.5v1A2.939,2.939,0,0,1,14.375,22Z" transform="translate(-3.833)"/>
+    <circle id="Ellipse_85" data-name="Ellipse 85" cx="0.958" cy="0.958" r="0.958" transform="translate(6.708 19.208)"/>
+  </g>
+</svg>

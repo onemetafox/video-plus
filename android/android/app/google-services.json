@@ -1,0 +1,110 @@
+{
+  "project_info": {
+    "project_number": "234885058276",
+    "project_id": "video-plus-256c2",
+    "storage_bucket": "video-plus-256c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234885058276:android:5ad80d7880eb466e4826f1",
+        "android_client_info": {
+          "package_name": "com.wrteam.videoPlus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234885058276-4ie4cpc30kod49a6p3716jssn0f0a9b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.videoPlus",
+            "certificate_hash": "17193c8d7be01ff6abc4c9c35e5767ad83274a0c"
+          }
+        },
+        {
+          "client_id": "234885058276-4iefbs728edkt77qau7qn05gqlv5dv5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.videoPlus",
+            "certificate_hash": "54d2f22d834f142456c7a956ecda8a7db9d8f85c"
+          }
+        },
+        {
+          "client_id": "234885058276-5o610jblj8ijvioc1ski4cari0lavk4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.videoPlus",
+            "certificate_hash": "0b3166ccb5193531a80a1a0c949d44cce5350ae7"
+          }
+        },
+        {
+          "client_id": "234885058276-6kl3oaiurdo646qephsq1cmjcem9m49v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.videoPlus",
+            "certificate_hash": "9daf146a003dfd7d4e6973533570e6e7356a4be8"
+          }
+        },
+        {
+          "client_id": "234885058276-6q3o8gdsjbqop1hmiqs4iblp4lb8arrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.videoPlus",
+            "certificate_hash": "dfc11c2a02a949d08267dc16ed7f5341ec567813"
+          }
+        },
+        {
+          "client_id": "234885058276-bs9o7fcd4h2r3j9p80qjdvhtq2i3o4bg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.videoPlus",
+            "certificate_hash": "a5434949e93f709e7da51c5db0c90b58d43a7680"
+          }
+        },
+        {
+          "client_id": "234885058276-jq9ht95q4qqevl3aub9v4uq9utk3f40c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.videoPlus",
+            "certificate_hash": "c16137365faf126427427bc7f171bf1edcc0dc85"
+          }
+        },
+        {
+          "client_id": "234885058276-lvif1skl4e407jd64gk95bkdcugcl5bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.videoPlus",
+            "certificate_hash": "3afc151058049417f4ddb70f59795c874f8317a4"
+          }
+        },
+        {
+          "client_id": "234885058276-tgpajiljc84qhbvm6vg3q9u4ncq9dkdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBozy3Ed602xf28hKfE4txeHfJh6-Y0H6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234885058276-tgpajiljc84qhbvm6vg3q9u4ncq9dkdc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234885058276-6m2kiru3o7rflqk1h5p086r1h9p02g65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wrteam.videoPlus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

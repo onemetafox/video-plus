@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+    <rect data-name="Rectangle 229" width="45" height="45" rx="9" style="fill:rgba(215,35,35,.3)"/>
+    <g data-name="Sign in with Facebook">
+        <g data-name="Button Background">
+            <path data-name="Button Background background" style="fill:transparent" d="M0 0h45v45H0z"/>
+            <rect data-name="Button Shape" width="45" height="45" rx="6.136" style="fill:#fff"/>
+            <g transform="translate(11 11)">
+                <path data-name="Path 307" d="M14.375 0h-5.75a4.8 4.8 0 0 0-4.792 4.792v13.416A4.8 4.8 0 0 0 8.625 23h5.75a4.8 4.8 0 0 0 4.792-4.792V4.792A4.8 4.8 0 0 0 14.375 0zm-5.75 1.917h5.75a2.875 2.875 0 0 1 2.875 2.875v10.541H5.75V4.792a2.875 2.875 0 0 1 2.875-2.875zm5.75 19.167h-5.75a2.875 2.875 0 0 1-2.875-2.876v-.958h11.5v.958a2.875 2.875 0 0 1-2.875 2.875z" style="fill:#212121"/>
+                <circle data-name="Ellipse 54" cx=".958" cy=".958" r=".958" transform="translate(10.542 18.208)" style="fill:#212121"/>
+            </g>
+        </g>
+    </g>
+</svg>

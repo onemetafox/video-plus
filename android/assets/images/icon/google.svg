@@ -1,0 +1,9 @@
+<svg id="google" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="boundry" width="24" height="24" fill="none"/>
+  <g id="base" transform="translate(0.729)">
+    <path id="Path_562" data-name="Path 562" d="M30.065,19.066a14.383,14.383,0,0,0-.2-2.33H19.016v4.435h6.213a5.227,5.227,0,0,1-2.3,3.483l3.708,2.881a11.309,11.309,0,0,0,3.432-8.468Z" transform="translate(-7.522 -7.29)" fill="#4280ef"/>
+    <path id="Path_563" data-name="Path 563" d="M19.016,30.29a11,11,0,0,0,7.616-2.781l-3.708-2.856A6.976,6.976,0,0,1,12.552,21.02L8.744,23.952A11.488,11.488,0,0,0,19.016,30.29Z" transform="translate(-7.522 -7.29)" fill="#34a353"/>
+    <path id="Path_564" data-name="Path 564" d="M12.552,21a6.986,6.986,0,0,1,0-4.41L8.744,13.629a11.515,11.515,0,0,0,0,10.322Z" transform="translate(-7.522 -7.29)" fill="#f6b704"/>
+    <path id="Path_565" data-name="Path 565" d="M19.016,11.851a6.274,6.274,0,0,1,4.41,1.729l3.282-3.307a11.067,11.067,0,0,0-7.692-2.981A11.488,11.488,0,0,0,8.744,13.629l3.808,2.956A6.879,6.879,0,0,1,19.016,11.851Z" transform="translate(-7.522 -7.29)" fill="#e54335"/>
+  </g>
+</svg>
